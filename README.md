@@ -1,5 +1,5 @@
-# mapaTrenElectricoGAM
-Mapa Interactivo Tren Eléctrico Rápido de Pasajeros Tibi GAM Costa Rica
+# Mapa Interactivo Tren Eléctrico Tibi GAM CR
+
 <p align="center">
 
   <img src="https://img.shields.io/badge/Format-JSON-black?style=for-the-badge&logo=json&logoColor=white"/>
